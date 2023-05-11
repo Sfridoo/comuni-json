@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "16",
+		"codice": "016",
 		"nome": "Puglia"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"73050"
 	],
-	"popolazione": 4737
+	"popolazione": 100
 }

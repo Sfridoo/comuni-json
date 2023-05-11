@@ -6,7 +6,7 @@
 		"nome": "Nord-est"
 	},
 	"regione": {
-		"codice": "05",
+		"codice": "005",
 		"nome": "Veneto"
 	},
 	"provincia": {
@@ -73,5 +73,5 @@
 		"30175",
 		"30176"
 	],
-	"popolazione": 261362
+	"popolazione": 100
 }

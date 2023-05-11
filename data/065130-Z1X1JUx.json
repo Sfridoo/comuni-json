@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "15",
+		"codice": "015",
 		"nome": "Campania"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"84010"
 	],
-	"popolazione": 8715
+	"popolazione": 100
 }

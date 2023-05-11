@@ -6,7 +6,7 @@
 		"nome": "Centro"
 	},
 	"regione": {
-		"codice": "12",
+		"codice": "012",
 		"nome": "Lazio"
 	},
 	"provincia": {
@@ -99,5 +99,5 @@
 		"00198",
 		"00199"
 	],
-	"popolazione": 2617175
+	"popolazione": 100
 }

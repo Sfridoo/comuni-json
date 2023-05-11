@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "17",
+		"codice": "017",
 		"nome": "Basilicata"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"85029"
 	],
-	"popolazione": 12167
+	"popolazione": 100
 }

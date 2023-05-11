@@ -6,7 +6,7 @@
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "02",
+		"codice": "002",
 		"nome": "Valle d'Aosta/Vallée d'Aoste"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"11010"
 	],
-	"popolazione": 225
+	"popolazione": 100
 }

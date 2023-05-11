@@ -6,7 +6,7 @@
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "03",
+		"codice": "003",
 		"nome": "Lombardia"
 	},
 	"provincia": {
@@ -33,5 +33,5 @@
 		"25135",
 		"25136"
 	],
-	"popolazione": 189902
+	"popolazione": 100
 }

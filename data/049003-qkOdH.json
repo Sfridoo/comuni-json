@@ -6,7 +6,7 @@
 		"nome": "Centro"
 	},
 	"regione": {
-		"codice": "09",
+		"codice": "009",
 		"nome": "Toscana"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"57034"
 	],
-	"popolazione": 4553
+	"popolazione": 100
 }

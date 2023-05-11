@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "18",
+		"codice": "018",
 		"nome": "Calabria"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"89045"
 	],
-	"popolazione": 2971
+	"popolazione": 100
 }

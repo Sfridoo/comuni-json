@@ -6,7 +6,7 @@
 		"nome": "Isole"
 	},
 	"regione": {
-		"codice": "19",
+		"codice": "019",
 		"nome": "Sicilia"
 	},
 	"provincia": {
@@ -65,5 +65,5 @@
 		"98167",
 		"98168"
 	],
-	"popolazione": 243262
+	"popolazione": 100
 }

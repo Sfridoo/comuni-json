@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "13",
+		"codice": "013",
 		"nome": "Abruzzo"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"65010"
 	],
-	"popolazione": 1023
+	"popolazione": 100
 }

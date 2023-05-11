@@ -6,7 +6,7 @@
 		"nome": "Nord-est"
 	},
 	"regione": {
-		"codice": "08",
+		"codice": "008",
 		"nome": "Emilia-Romagna"
 	},
 	"provincia": {
@@ -22,5 +22,5 @@
 		"48124",
 		"48125"
 	],
-	"popolazione": 153740
+	"popolazione": 100
 }

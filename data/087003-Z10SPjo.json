@@ -6,7 +6,7 @@
 		"nome": "Isole"
 	},
 	"regione": {
-		"codice": "19",
+		"codice": "019",
 		"nome": "Sicilia"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"95022"
 	],
-	"popolazione": 28749
+	"popolazione": 100
 }

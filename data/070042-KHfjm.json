@@ -6,7 +6,7 @@
 		"nome": "Sud"
 	},
 	"regione": {
-		"codice": "14",
+		"codice": "014",
 		"nome": "Molise"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"86032"
 	],
-	"popolazione": 1423
+	"popolazione": 100
 }

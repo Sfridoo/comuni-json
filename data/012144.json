@@ -1,12 +1,12 @@
 {
-	"nome": "Bregano",
-	"codice": "012018",
+	"nome": "Bardello con Malgesso e Bregano",
+	"codice": "012144",
 	"zona": {
 		"codice": "1",
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "03",
+		"codice": "003",
 		"nome": "Lombardia"
 	},
 	"provincia": {
@@ -14,9 +14,7 @@
 		"nome": "Varese"
 	},
 	"sigla": "VA",
-	"codiceCatastale": "B131",
-	"cap": [
-		"21020"
-	],
-	"popolazione": 839
+	"codiceCatastale": "M433",
+	"cap": [],
+	"popolazione": 100
 }

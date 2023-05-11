@@ -1,12 +1,12 @@
 {
-	"nome": "Pont-Canavese",
+	"nome": "Pont Canavese",
 	"codice": "001199",
 	"zona": {
 		"codice": "1",
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "01",
+		"codice": "001",
 		"nome": "Piemonte"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"10085"
 	],
-	"popolazione": 3676
+	"popolazione": 100
 }

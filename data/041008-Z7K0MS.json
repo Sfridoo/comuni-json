@@ -6,7 +6,7 @@
 		"nome": "Centro"
 	},
 	"regione": {
-		"codice": "11",
+		"codice": "011",
 		"nome": "Marche"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"61044"
 	],
-	"popolazione": 2356
+	"popolazione": 100
 }

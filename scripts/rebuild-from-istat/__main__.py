@@ -5,9 +5,9 @@ from glob import glob
 
 class Application:
     def run(self):
-        with open('istat20200101.csv', 'r') as file:
+        with open('istat20230101.csv', 'r', encoding='ISO-8859-1') as file:
             self._read_file(file)
-    
+
     def _read_file(self, file):
         reader = csv.reader(file, delimiter=';')
         i = -1
@@ -16,7 +16,7 @@ class Application:
             if i > 0:
                 #self._check_duplicates(row, i)
                 self._generate_file(row, i)
-    
+
     def _generate_file(self, row, i):
         istat = row[4]
         files = glob(f'../../data/{istat}-*.json')
@@ -32,10 +32,10 @@ class Application:
             # quando si rigenera il file JSON
             with open(existing_file_path, 'r') as existing_file:
                 cap_list = json.load(existing_file)['cap']
-            
+
             if (len(cap_list) == 0):
                 raise Exception(f'Missing CAP {istat}')
-        
+
         comune = {
             'nome': row[6].strip(),
             'codice': row[4],

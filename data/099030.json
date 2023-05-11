@@ -1,0 +1,20 @@
+{
+	"nome": "Montecopiolo",
+	"codice": "099030",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "008",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "F478",
+	"cap": [],
+	"popolazione": 100
+}

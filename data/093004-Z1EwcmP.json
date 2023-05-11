@@ -6,7 +6,7 @@
 		"nome": "Nord-est"
 	},
 	"regione": {
-		"codice": "06",
+		"codice": "006",
 		"nome": "Friuli-Venezia Giulia"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"33081"
 	],
-	"popolazione": 9025
+	"popolazione": 100
 }

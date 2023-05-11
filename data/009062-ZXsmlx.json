@@ -6,7 +6,7 @@
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "07",
+		"codice": "007",
 		"nome": "Liguria"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"17020"
 	],
-	"popolazione": 2489
+	"popolazione": 100
 }

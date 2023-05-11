@@ -1,12 +1,12 @@
 {
-	"nome": "Moransengo",
-	"codice": "005079",
+	"nome": "Moransengo-Tonengo",
+	"codice": "005122",
 	"zona": {
 		"codice": "1",
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "01",
+		"codice": "001",
 		"nome": "Piemonte"
 	},
 	"provincia": {
@@ -14,9 +14,7 @@
 		"nome": "Asti"
 	},
 	"sigla": "AT",
-	"codiceCatastale": "F709",
-	"cap": [
-		"14023"
-	],
-	"popolazione": 212
+	"codiceCatastale": "M434",
+	"cap": [],
+	"popolazione": 100
 }

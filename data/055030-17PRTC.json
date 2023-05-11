@@ -6,7 +6,7 @@
 		"nome": "Centro"
 	},
 	"regione": {
-		"codice": "10",
+		"codice": "010",
 		"nome": "Umbria"
 	},
 	"provincia": {
@@ -18,5 +18,5 @@
 	"cap": [
 		"05010"
 	],
-	"popolazione": 2311
+	"popolazione": 100
 }

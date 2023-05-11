@@ -1,0 +1,20 @@
+{
+	"nome": "Misiliscemi",
+	"codice": "081025",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "019",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "M432",
+	"cap": [],
+	"popolazione": 100
+}

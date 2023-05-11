@@ -6,7 +6,7 @@
 		"nome": "Isole"
 	},
 	"regione": {
-		"codice": "20",
+		"codice": "020",
 		"nome": "Sardegna"
 	},
 	"provincia": {
@@ -31,5 +31,5 @@
 		"09133",
 		"09134"
 	],
-	"popolazione": 149883
+	"popolazione": 100
 }

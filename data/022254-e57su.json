@@ -6,7 +6,7 @@
 		"nome": "Nord-est"
 	},
 	"regione": {
-		"codice": "04",
+		"codice": "004",
 		"nome": "Trentino-Alto Adige/Südtirol"
 	},
 	"provincia": {
@@ -19,5 +19,5 @@
 		"38033",
 		"38030"
 	],
-	"popolazione": 2610
+	"popolazione": 100
 }

@@ -6,7 +6,7 @@
 		"nome": "Nord-ovest"
 	},
 	"regione": {
-		"codice": "01",
+		"codice": "001",
 		"nome": "Piemonte"
 	},
 	"provincia": {
@@ -22,5 +22,5 @@
 		"28924",
 		"28925"
 	],
-	"popolazione": 30332
+	"popolazione": 100
 }
